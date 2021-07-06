@@ -18,7 +18,7 @@ h1{
     padding-left: 50px;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 #text-position{
     padding-top: 150px;
@@ -31,4 +31,8 @@ h1{
     padding: 15px 30px;
     border-radius: 30px;
     line-height: 8;
+}
+#mid-banner{
+    background-image: url(images/frame.jpg);
+    background-position: 1px;
 }
