@@ -6,8 +6,8 @@ h1{
     font-size: 40px;
     line-height: 0.6;
 }
-.orange-color{
-    color: orange;
+.colored-text{
+    color: purple;
 }
 .flexible-container{
     display: flex;
